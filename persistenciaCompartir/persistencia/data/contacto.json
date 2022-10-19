@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "nombre": "Johlver Jose Pardo",
+            "email": "jjpardo",
+            "movil": "7364734",
+            "direcciones": {
+                "0": {
+                    "ciudad": "Buc",
+                    "direccion": "calle 45"
+                }
+            },
+            "hobbies": {
+                "0": {
+                    "hobbie": "Programar"
+                }
+            }
+        },
+        {
+            "nombre": "Jesus David",
+            "email": "jrjos@gmail.com",
+            "movil": "647546",
+            "direcciones": {
+                "0": {
+                    "ciudad": "Giron",
+                    "direccion": "Canelles"
+                }
+            },
+            "hobbies": {
+                "0": {
+                    "hobbie": "Redes"
+                }
+            }
+        },
+        {
+            "nombre": "js",
+            "email": "js@gmail",
+            "movil": "123",
+            "direcciones": {
+                "0": {
+                    "ciudad": "Bucara",
+                    "direccion": "Cra 38"
+                }
+            },
+            "hobbies": {
+                "0": {
+                    "hobbie": "Jugar"
+                }
+            }
+        }
+    ]
+}
